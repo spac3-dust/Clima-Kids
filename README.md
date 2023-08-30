@@ -1,3 +1,3 @@
 # StudentChallenge.swiftpm
 
-Quiz with combine framework.
+Minimal, Educational Climate Change project.
