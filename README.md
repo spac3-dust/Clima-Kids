@@ -1,3 +1,3 @@
-# StudentChallenge.swiftpm
+# Clima Kids
 
 Minimal, Educational Climate Change project.
